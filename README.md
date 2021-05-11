@@ -1,2 +1,2 @@
 # trybe-exercises
-Exercícios da Trybe
+Exercícios da Trybe para praticar
