@@ -1,0 +1,25 @@
+.titulo1{
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+p{
+    font-weight: 600;
+    font-size: 48px;
+    font-style: italic;
+}
+body{
+    font-size: 16px;
+}
+#amarelo {
+    background-color: yellow;
+}
+#vermelho{
+    background-color: red;
+}
+#marrom{
+    background-color: brown;
+}
+ul{
+    text-align: center;
+    line-height: 5;
+}
