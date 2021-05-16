@@ -1,0 +1,53 @@
+<style>
+    #links{
+          }
+    #links ul{
+        list-style-type: none;
+        text-align: right;
+        }
+    #links ul li{
+        display: inline-block;
+        margin-right: 20px; 
+        }
+    #links a{
+        text-decoration: none;
+        color: gray;
+        font-weight: bold;
+        font-family: verdana;
+        font-size: small;
+        }
+    #imageandbackground{
+        
+        display: inline-block;
+        width: 100%;
+        height: 1200px;
+    }
+    #imageprofile{
+        width: 40%;
+        float: left;
+        height: 100%;
+    }
+    #description{
+        width: 60%;
+        float: right;
+        padding-top: 500px;
+        font-family: verdana;
+        color: gray;
+    }
+    #titlecall{
+        font-size: medium;
+        font-weight: bold;
+    }
+    #titlename{
+        font-size: xx-large;
+        font-weight: bold;
+    }
+    #titledescription{
+        font-size: small;
+    }
+    body{
+        background-color:rgb(241, 238, 222);
+        color: gray;
+        font-family: verdana;
+        }
+     </style>
